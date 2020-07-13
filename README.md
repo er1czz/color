@@ -1,5 +1,6 @@
 
-# Color Palette - friendly to protanopia, deuteranopia, and tritanopia   
+# Color Palette  
+### friendly to protanopia, deuteranopia, and tritanopia   
 - ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` Black
 - ![#E69F00](https://via.placeholder.com/15/E69F00/000000?text=+) `#E69F00` Orange
 - ![#56B4E9](https://via.placeholder.com/15/56B4E9/000000?text=+) `#56B4E9` Sky Blue
@@ -9,7 +10,7 @@
 - ![#D55E00](https://via.placeholder.com/15/D55E00/000000?text=+) `#D55E00` Red
 - ![#CC79A7](https://via.placeholder.com/15/CC79A7/000000?text=+) `#CC79A7` Pink
 
-### Reference 
+#### Reference 
 <img src="https://jfly.uni-koeln.de/color/image/pallete.jpg" height="188.8" width="480">  
 https://jfly.uni-koeln.de/color/image/pallete.jpg
               
