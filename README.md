@@ -1,15 +1,15 @@
 
 # Color Palette
-## friendly to protanopia, deuteranopia, and tritanopia <a href="https://jfly.uni-koeln.de/color/image/pallete.jpg" target="_blank" class="socials"><i class="fas fa-external-link-square-alt"></i></a>
+## friendly to protanopia, deuteranopia, and tritanopia 
 - ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` Black
-- ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` Orange
-- ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` black
-<p><font color="#000000">&nbsp; &nbsp; &nbsp; &nbsp; ❏ #000000</font> Black </p>
-<p><font color="#E69F00">&nbsp; &nbsp; &nbsp; &nbsp; ❏ #E69F00</font> Orange</p>
-<p><font color="#56B4E9">&nbsp; &nbsp; &nbsp; &nbsp; ⬛ #56B4E9</font> Sky Blue </p>
-<p><font color="#009E73">&nbsp; &nbsp; &nbsp; &nbsp; ⬛ #009E73</font> Green</p>
-<p><font color="#F0E442">&nbsp; &nbsp; &nbsp; &nbsp; ⬛ #F0E442</font> Yellow</p>
-<p><font color="#0072B2">&nbsp; &nbsp; &nbsp; &nbsp; ⬛ #0072B2</font> Blue</p>
-<p><font color="#D55E00">&nbsp; &nbsp; &nbsp; &nbsp; ⬛ #D55E00</font> Red</p>
-<p><font color="#CC79A7">&nbsp; &nbsp; &nbsp; &nbsp; ⬛ #CC79A7</font> Pink</p>
+- ![#E69F00](https://via.placeholder.com/15/E69F00/000000?text=+) `#E69F00` Orange
+- ![#56B4E9](https://via.placeholder.com/15/56B4E9/000000?text=+) `#56B4E9` Sky Blue
+- ![#009E73](https://via.placeholder.com/15/009E73/000000?text=+) `#009E73` Green
+- ![#F0E442](https://via.placeholder.com/15/F0E442/000000?text=+) `#F0E442` Yellow
+- ![#0072B2](https://via.placeholder.com/15/0072B2/000000?text=+) `#0072B2` Blue
+- ![#D55E00](https://via.placeholder.com/15/D55E00/000000?text=+) `#D55E00` Red
+- ![#CC79A7](https://via.placeholder.com/15/CC79A7/000000?text=+) `#CC79A7` Pink
+
+Reference
+<a href="https://jfly.uni-koeln.de/color/image/pallete.jpg" target="_blank" class="socials"><i class="fas fa-external-link-square-alt"></i></a>
               
