@@ -11,6 +11,6 @@ friendly to protanopia, deuteranopia, and tritanopia
 - ![#CC79A7](https://via.placeholder.com/15/CC79A7/000000?text=+) `#CC79A7` Pink
 
 ### Reference 
-<img src="https://jfly.uni-koeln.de/color/image/pallete.jpg" height="177" width="450">  
+<img src="https://jfly.uni-koeln.de/color/image/pallete.jpg" height="236" width="600">  
 https://jfly.uni-koeln.de/color/image/pallete.jpg
               
