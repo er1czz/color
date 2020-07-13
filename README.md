@@ -1,6 +1,5 @@
 
-# Color Palette  
-friendly to protanopia, deuteranopia, and tritanopia   
+# Color Palette - friendly to protanopia, deuteranopia, and tritanopia   
 - ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` Black
 - ![#E69F00](https://via.placeholder.com/15/E69F00/000000?text=+) `#E69F00` Orange
 - ![#56B4E9](https://via.placeholder.com/15/56B4E9/000000?text=+) `#56B4E9` Sky Blue
