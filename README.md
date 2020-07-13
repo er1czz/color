@@ -1,8 +1,8 @@
 
 # Color Palette
 ## friendly to protanopia, deuteranopia, and tritanopia <a href="https://jfly.uni-koeln.de/color/image/pallete.jpg" target="_blank" class="socials"><i class="fas fa-external-link-square-alt"></i></a>
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-<p><font color="#000000">&nbsp; &nbsp; &nbsp; &nbsp; ❏ #E69F00</font> Black </p>
+- ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` black
+<p><font color="#000000">&nbsp; &nbsp; &nbsp; &nbsp; ❏ #000000</font> Black </p>
 <p><font color="#E69F00">&nbsp; &nbsp; &nbsp; &nbsp; ❏ #E69F00</font> Orange</p>
 <p><font color="#56B4E9">&nbsp; &nbsp; &nbsp; &nbsp; ⬛ #56B4E9</font> Sky Blue </p>
 <p><font color="#009E73">&nbsp; &nbsp; &nbsp; &nbsp; ⬛ #009E73</font> Green</p>
