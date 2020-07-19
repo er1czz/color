@@ -11,7 +11,7 @@
 - ![#CC79A7](https://via.placeholder.com/15/CC79A7/000000?text=+) `#CC79A7` Pink
 
 #### Reference   
-https://jfly.uni-koeln.de/color/image/pallete.jpg
+https://jfly.uni-koeln.de/color/image/pallete.jpg   
 <img src="https://jfly.uni-koeln.de/color/image/pallete.jpg" height="188.8" width="480">  
 
               
