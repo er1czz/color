@@ -1,6 +1,6 @@
 
 # Color Palette  
-### friendly to protanopia, deuteranopia, and tritanopia   
+## 1. friendly to protanopia, deuteranopia, and tritanopia   
 - ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` Black
 - ![#E69F00](https://via.placeholder.com/15/E69F00/000000?text=+) `#E69F00` Orange
 - ![#56B4E9](https://via.placeholder.com/15/56B4E9/000000?text=+) `#56B4E9` Sky Blue
@@ -14,7 +14,7 @@
 https://jfly.uni-koeln.de/color/image/pallete.jpg   
 <img src="https://jfly.uni-koeln.de/color/image/pallete.jpg" height="188.8" width="480">  
 
-### Pastel colors 
+## 2. Pastels 
 - pale tones of colors by mixing significant amount of white into the original, which, when described in the HSV color space, have high value and low saturation. They are often associated with key words, such as "soothing", "claming", "spring", "baby", "romantic", etc.
 <img src="https://github.com/er1czz/color/blob/master/epic_spring_sale_2022.JPG" width="50%">
 ##### Examples
