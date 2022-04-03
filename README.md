@@ -27,7 +27,7 @@ https://jfly.uni-koeln.de/color/image/pallete.jpg
 - ![#619196](https://via.placeholder.com/15/619196/000000?text=+) `#619196`
 
 #### Reference
-- Illustration from Epic Games for its 2022 Spring Sale 
+- Illustration from Epic Games for its [2022 Spring Sale](https://store.epicgames.com/en-US/news/the-epic-games-store-spring-sale)
  
 
               
