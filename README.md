@@ -20,14 +20,15 @@ https://jfly.uni-koeln.de/color/image/pallete.jpg
 
 #### Examples
 
-- ![#DFC7C1](https://via.placeholder.com/15/DFC7C1/000000?text=+) `#DFC7C1`
-- ![#F4DCD6](https://via.placeholder.com/15/F4DCD6/000000?text=+) `#F4DCD6`
-- ![#B2D9EA](https://via.placeholder.com/15/B2D9EA/000000?text=+) `#B2D9EA`
-- ![#84B4C8](https://via.placeholder.com/15/84B4C8/000000?text=+) `#84B4C8`
-- ![#619196](https://via.placeholder.com/15/619196/000000?text=+) `#619196`
+- ![#DFC7C1](https://via.placeholder.com/15/DFC7C1/000000?text=+) `#DFC7C1` Dust Storm  
+- ![#F4DCD6](https://via.placeholder.com/15/F4DCD6/000000?text=+) `#F4DCD6` Champagne Pink 
+- ![#B2D9EA](https://via.placeholder.com/15/B2D9EA/000000?text=+) `#B2D9EA` Light Blue
+- ![#84B4C8](https://via.placeholder.com/15/84B4C8/000000?text=+) `#84B4C8` Dark Sky Blue
+- ![#619196](https://via.placeholder.com/15/619196/000000?text=+) `#619196` Desaturated Cyan
 
 #### Reference
 - Illustration from Epic Games for its [2022 Spring Sale](https://store.epicgames.com/en-US/news/the-epic-games-store-spring-sale)
+- Color name https://www.color-name.com/
  
 
               
