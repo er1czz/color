@@ -16,7 +16,7 @@ https://jfly.uni-koeln.de/color/image/pallete.jpg
 
 ## 2. Pastels 
 - pale tones of colors by mixing significant amount of white into the original, which, when described in the HSV color space, have high value and low saturation. They are often associated with key words, such as "soothing", "calming", "spring", "baby", "romantic", etc.
-<img src="https://github.com/er1czz/color/blob/master/epic_spring_sale_2022.JPG" width="50%">
+<img src="https://github.com/er1czz/color/blob/master/epic_spring_sale_2022.JPG" width="40%">
 
 #### Examples
 
